@@ -1,0 +1,20 @@
+{
+    "auth_data": "5\u0010d\u001c\u0006<\u001f\u0003cxy\u001eY?2Cz\u0002sX",
+    "auth_plugin": "caching_sha2_password",
+    "username": "appuser",
+    "password": "123456",
+    "database": "",
+    "charset": 45,
+    "client_flags": 1813005,
+    "max_allowed_packet": 1073741824,
+    "ssl_enabled": true,
+    "conn_attrs": {
+        "_pid": "19557",
+        "_platform": "x86_64",
+        "_source_host": "NEEKYJIANG-MB1",
+        "_client_name": "mysql-connector-python",
+        "_client_license": "GPL-2.0",
+        "_client_version": "8.0.20",
+        "_os": "macOS-10.15.3"
+    }
+}
