@@ -1,0 +1,10 @@
+{
+    "protocol": 10,
+    "server_version_original": "8.0.19",
+    "server_threadid": 120,
+    "charset": 255,
+    "server_status": 2,
+    "auth_plugin": "caching_sha2_password",
+    "auth_data": "\u0003i!V\u001b\u001f\u001a\u0004*9>b\u0015uKb-J;\u0003",
+    "capabilities": 3355443199
+}
